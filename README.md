@@ -20,4 +20,4 @@ Multi-exchange trading library platform for Python.
 ### Function Guides
 - [Trailing Stop](https://appnologyjames.medium.com/metatrader-5-python-trailing-stop-2c562a541b48)
 - [50-day and 200-day SMA](https://appnologyjames.medium.com/calculating-50-and-200-sma-with-python-for-stocks-technical-analysis-74ff8e29a68)
-- [Golden Cross and Death Cross](https://appnologyjames.medium.com/calculating-50-and-200-sma-with-python-for-stocks-technical-analysis-74ff8e29a68)
+- [Identifying a Golden Cross and Death Cross](https://appnologyjames.medium.com/calculating-50-and-200-sma-with-python-for-stocks-technical-analysis-74ff8e29a68)
