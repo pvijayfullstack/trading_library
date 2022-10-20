@@ -2,7 +2,7 @@ import json
 import os
 from exchanges import mt5_interaction as mt5_interface
 from technical_analysis import identify_cross_events
-from technical_analysis import simple_moving_average
+from technical_analysis import generic_sma
 import time
 
 
